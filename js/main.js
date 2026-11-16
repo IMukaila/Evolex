@@ -56,6 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
         email: document.getElementById('email').value,
         company: document.getElementById('company').value,
         category: document.getElementById('category').value,
+        productInterest: document.getElementById('productInterest') ? document.getElementById('productInterest').value : '',
         message: document.getElementById('message').value,
         submittedAt: new Date().toISOString()
       };
