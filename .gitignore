@@ -12,3 +12,4 @@ desktop.ini
 # Temporary scratch files
 *.tmp
 *.log
+test-results/
