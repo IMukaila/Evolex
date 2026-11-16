@@ -510,7 +510,7 @@ strong { font-weight: 700; color: var(--ink); }
   overflow: hidden;
   box-shadow: 0 25px 60px rgba(22, 48, 32, 0.16);
   border: 4px solid #ffffff;
-  aspect-ratio: 3 / 4;
+  aspect-ratio: 4 / 3;
 }
 .hero__image-wrap img {
   width: 100%;
